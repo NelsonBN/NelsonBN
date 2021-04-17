@@ -14,6 +14,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP)
 
 #### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -30,6 +31,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Subversion](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion)
+
+#### SO
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux)
 
 #### Tools
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio)
