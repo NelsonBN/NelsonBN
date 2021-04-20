@@ -1,9 +1,29 @@
-### Hi 👋
-- :computer: I'm c# developer
+### Hi, I'm Nelson Nobre 👋
+- :computer: I'm c# developer for 8 years
 - 🔭 I’m currently working on backend developer and team lider
 - 🌱 I’m currently learning techniques about CI/CD and cloud computing
-- 📫 How to reach me: technobre@gmail.com
+- 📫 How to reach me: 
 
+<div align="center">
+<i>My contacts and social networks:</i><br>
+
+<a href="mailto:technobre@gmail.com" target="_blank">
+	<img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/nelsonbnobre/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.facebook.com/NelsonBNobre" target="_blank">
+	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://www.instagram.com/nelsonbn/" target="_blank">
+	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+</div>
 
 
 ## 🚀💻 Technologies & Tools
