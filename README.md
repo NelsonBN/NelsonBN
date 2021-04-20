@@ -2,10 +2,11 @@
 - :computer: I'm c# developer for 8 years
 - 🔭 I’m currently working on backend developer and team lider
 - 🌱 I’m currently learning techniques about CI/CD and cloud computing
-- 📫 How to reach me: 
 
 <div align="center">
-<i>My contacts and social networks:</i><br>
+<i>My contacts and social networks:</i>
+
+<br>
 
 <a href="mailto:technobre@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
@@ -22,6 +23,9 @@
 <a href="https://www.instagram.com/nelsonbn/" target="_blank">
 	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
+<br>
+<br>
 
 </div>
 
