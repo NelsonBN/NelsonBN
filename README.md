@@ -49,6 +49,19 @@
 	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+<br>
+
+<i>My repositories:</i>
+
+<a href="https://github.com/NelsonBN/" target="_blank">
+	<img src="https://img.shields.io/badge/Gitbub%20NelsonBN-000.svg?&style=flat&logo=Github&logoColor=white" alt="Gitbub NelsonBN">
+</a>
+
+<a href="https://github.com/TechNobre/" target="_blank">
+	<img src="https://img.shields.io/badge/Gitbub%20TechNobre-000.svg?&style=flat&logo=Github&logoColor=white" alt="Gitbub TechNobre">
+</a>
+
+
 <br><br>
 
 </div>
