@@ -73,12 +73,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
-
-
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
-
-
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0769AD&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
