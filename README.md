@@ -3,7 +3,7 @@
 {
 	"Name": "Nelson Nobre",
 	"🚀 About me": "I'm c# developer for 8 years working in Algarve, Portugal",
-	"🏢 Working": "I'm currently working at PositiveSlice (VFXPLC)",
+	"🏢 Working": "I'm currently working at Fidgrove",
 	"🔭 Currently roles": "I'm currently working on software architect, backend developer and team lider",
 	"⚙️ I use daily":
 	[
@@ -73,6 +73,12 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+
+
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0769AD&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
@@ -87,6 +93,9 @@
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=Amazon-DynamoDB&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+
+
 
 #### Cloud computing
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF6F00&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
