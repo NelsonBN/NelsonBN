@@ -1,23 +1,24 @@
 ### Hi 👋
 ```json
 {
-	"Name": "Nelson Nobre",
-	"🚀 About me": "I'm c# developer for 8 years working in Algarve, Portugal",
-	"🏢 Working": "I'm currently working at Fidgrove",
-	"🔭 Currently roles": "I'm currently working on software architect, backend developer and team lider",
-	"⚙️ I use daily":
-	[
-		".cs",
-		".sql",
-		".js",
-		".html",
-		".css",	
-	],
-	"🌱 I’m currently learning":
-	[
-		"Techniques about CI/CD",
-		"Cloud computing"
-	]
+    "Name": "Nelson Nobre",
+    "🚀 About me": "I'm c# developer for 8 years working in Algarve, Portugal",
+    "🏢 Working": "I'm currently working at Fidgrove",
+    "🔭 Currently roles": "I'm currently working on software architect  and backend engineer",
+    "⚙️ I use daily":
+    [
+        ".cs",
+        ".sql",
+        ".yml",
+        ".js",
+        ".html",
+        ".css",
+    ],
+    "🌱 I’m currently learning":
+    [
+        "Techniques about DevOps",
+        "Cloud computing"
+    ]
 }
 
 ```
