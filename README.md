@@ -20,7 +20,6 @@
         "Cloud computing"
     ]
 }
-
 ```
 <br>
 <div align="center">
@@ -91,14 +90,13 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=Amazon-DynamoDB&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
-
-
 #### Cloud computing
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF6F00&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
-#### Versioning
+#### DevOps
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=Azure%20DevOps&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Subversion](https://img.shields.io/badge/-Subversion-05122A?style=flat&logo=Subversion&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
