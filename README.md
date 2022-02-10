@@ -42,8 +42,7 @@
 
 <i>Community:</i>
 <br>
-
-[![GeekLab](https://img.shields.io/discord/838264621759856650?label=GeekLab&style=flat&labelColor=05122A&color=0052cc)](https://discord.gg/sQXKe8UQ)
+[![GeekLab](https://img.shields.io/discord/838264621759856650?label=GeekLab&style=flat&labelColor=05122A&color=0052cc)](https://discord.gg/QyFx93ugFz)
 
 
 <br><br>
