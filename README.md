@@ -5,7 +5,8 @@
     "🚀 I'm": "Solution Architect / Software Architect / C# Developer with +10 years of experience in software development",
     "🏢 Working": "I'm currently working remotely at Fidgrove",
     "🌎 I'm from": "Located in Algarve, Portugal",
-    "🤓 About me": "I am an enthusiast in matters related to software architecture and I love talking about DDD, Clean Arch, CQRS, Design Patterns, Testing, DevOps, Cloud Computing, etc.",
+    "🤓 About me": "I am an enthusiast in matters related to software architecture
+    and I love talking about DDD, Clean Arch, CQRS, Design Patterns, Testing, DevOps, Cloud Computing, etc.",
 }
 ```
 <br>
