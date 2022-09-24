@@ -2,8 +2,10 @@
 ```json
 {
     "Name": "Nelson Nobre",
-    "🚀 About me": "I'm Solution Architect / Software Architect / C# Developer located in Algarve, Portugal",
-    "🏢 Working": "I'm currently working remotely at Fidgrove"
+    "🚀 I'm": "Solution Architect / Software Architect / C# Developer with +10 years of experience in software development",
+    "🏢 Working": "I'm currently working remotely at Fidgrove",
+    "🌎 I'm from": "Located in Algarve, Portugal",
+    "🤓 About me": "I am an enthusiast in matters related to software architecture and I love talking about DDD, Clean Arch, CQRS, Design Patterns, Testing, DevOps, Cloud Computing, etc.",
 }
 ```
 <br>
@@ -57,7 +59,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
-[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
