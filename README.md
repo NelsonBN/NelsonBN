@@ -62,6 +62,10 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=Amazon-DynamoDB&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
+#### Messaging
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMQ&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Apache-Kafka&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+
 #### Cloud computing & Infrastructure
 [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF6F00&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
