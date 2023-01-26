@@ -2,7 +2,7 @@
 ```json
 {
   "Name": "Nelson Nobre",
-  "🚀 I'm": "Solution Architect / Software Architect / C# Developer with +10 years of experience in software development",
+  "🚀 I'm": "Software Architect / C# Developer with +10 years of experience in software development",
   "🏢 Working": "I'm currently working remotely at Fidgrove",
   "🌎 I'm from": "Located in Algarve, Portugal",
   "🤓 About me 1": "I am an enthusiast in matters related to software architecture",
