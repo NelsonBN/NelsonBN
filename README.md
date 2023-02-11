@@ -79,6 +79,10 @@
 [![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Subversion](https://img.shields.io/badge/-Subversion-05122A?style=flat&logo=Subversion&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
+#### Observability
+[![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=Prometheus&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+
 #### SO
 [![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=0078D6&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
