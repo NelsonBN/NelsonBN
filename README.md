@@ -48,6 +48,8 @@
 
 </div>
 
+
+
 ## 💻Tech Stack
 
 #### Linguagens & frameworks
@@ -92,3 +94,14 @@
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&logoColor=007ACC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=SonarQube&logoColor=007ACC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![SonarCloud](https://img.shields.io/badge/-SonarCloud-05122A?style=flat&logo=SonarCloud&logoColor=007ACC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+
+
+
+## 🏆 Certifications
+
+<div align="center">
+
+![AZ900](/media/az900-microsoft-certified-azure-fundamentals.png "AZ900")
+![AZ400](/media/az-400-designing-and-implementing-microsoft-devops-solutions.png "AZ400")
+
+</div>
