@@ -6,7 +6,8 @@
   "🏢 Working": "I'm currently working remotely at Fidgrove",
   "🌎 I'm from": "Located in Algarve, Portugal",
   "🤓 About me 1": "I am an enthusiast in matters related to software architecture",
-  "🤓 About me 2": "And I love talking about Software Architecture, DDD, Design Patterns, Algorithms, Data Structures, Testing, DevOps, CloudComputing, etc",
+  "🤓 About me 2": "And I love talking about Software Architecture, DDD, Design Patterns,",
+  "🤓 About me 3": "Algorithms, Data Structures, Testing, DevOps, CloudComputing, etc",
 }
 ```
 <br>
