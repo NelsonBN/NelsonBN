@@ -55,10 +55,13 @@
 
 #### Linguagens & frameworks
 [![C# .NET](https://img.shields.io/badge/-C%23%20.NET-05122A?style=flat&logo=c-sharp&logoColor=239120&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
-[![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js&logoColor=00DC82&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=E34F26&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logoColor=7952B3&logo=Bootstrap&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
@@ -72,11 +75,13 @@
 #### Cloud computing & Infrastructure
 [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF6F00&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0078D4&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### DevOps
-[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=Azure%20DevOps&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=Azure%20DevOps&logoColor=0078D7&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=7B42BC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&logoColor=0052CC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=Confluence&logoColor=0052CC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
