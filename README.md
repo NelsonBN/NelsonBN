@@ -17,7 +17,10 @@
 
 <i>Reach me:</i>
 <br>
-<a href="https://www.linkedin.com/in/nelsonbnobre/" target="_blank">
+<a href="https://nelsonbn.com" target="_blank">
+    <img src="https://img.shields.io/badge/nelsonbn.com-2a2c39.svg?&style=flat&logo=internetexplorer&logoColor=white" alt="nelsonbn.com">
+</a>
+<a href="https://www.linkedin.com/in/nelsonbnobre" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:technobre@gmail.com" target="_blank">
