@@ -68,6 +68,7 @@
 
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=Amazon-DynamoDB&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
