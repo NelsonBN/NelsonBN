@@ -111,7 +111,9 @@
 
 <div align="center">
 
-![AZ900](/media/az900-microsoft-certified-azure-fundamentals.png "AZ900")
-![AZ400](/media/az-400-designing-and-implementing-microsoft-devops-solutions.png "AZ400")
+![AZ900](/media/az900.png "AZ900")
+![AZ204](/media/az204.png "AZ204")
+![AZ400](/media/az400.png "AZ400")
+![DevOps Engineer](/media/DevOps-Engineer.png "DevOps Engineer")
 
 </div>
