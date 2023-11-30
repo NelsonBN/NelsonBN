@@ -67,7 +67,8 @@
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js&logoColor=00DC82&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### Database
-[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Postgre](https://img.shields.io/badge/-Postgre-05122A?style=flat&logo=postgresql&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=Amazon-DynamoDB&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
