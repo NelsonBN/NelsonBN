@@ -56,7 +56,7 @@
 
 ## 💻Tech Stack
 
-#### Linguagens & frameworks
+#### Languages & Frameworks
 [![C# .NET](https://img.shields.io/badge/-C%23%20.NET-05122A?style=flat&logo=c-sharp&logoColor=239120&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=E34F26&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
