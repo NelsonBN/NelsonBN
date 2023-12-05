@@ -125,3 +125,10 @@
 ![DevOps Engineer](/media/DevOps-Engineer.png "DevOps Engineer")
 
 </div>
+
+## 📊 𝗦𝘁𝗮𝘁𝘀
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelsonbn&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonbn&layout=compact&langs_count=6&theme=dracula"/>
+</div>
