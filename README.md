@@ -3,7 +3,7 @@
 {
   "Name": "Nelson Nobre",
   "🚀 I'm": "Software Engineer and Architect / C# Developer with +10 years of experience and specializing in .NET/C# and cloud solutions",
-  "🏢 Working": "I'm currently working remotely at Fidgrove",
+  "🏢 Working": "I'm currently working remotely at VFX Financial",
   "🌎 I'm from": "Located in Algarve, Portugal",
   "🤓 About me 1": "I am an enthusiast in matters related to software architecture",
   "🤓 About me 2": "And I love talking about Software Architecture, DDD, Design Patterns,",
