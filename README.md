@@ -72,6 +72,7 @@
 [![Postgre](https://img.shields.io/badge/-Postgre-05122A?style=flat&logo=postgresql&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=Microsoft-SQL-Server&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=Amazon-DynamoDB&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### Messaging
@@ -80,13 +81,13 @@
 
 #### Cloud computing & Infrastructure
 [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF6F00&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-05122A?style=flat&logo=amazon-web-services&logoColor=FF6F00&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0078D4&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### DevOps
-[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=Azure%20DevOps&logoColor=0078D7&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=Azure%20DevOps&logoColor=0078D7&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=7B42BC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&logoColor=0052CC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
