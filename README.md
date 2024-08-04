@@ -125,6 +125,7 @@
 ![AZ204](/media/az204.png "AZ204")
 ![AZ400](/media/az400.png "AZ400")
 ![DevOps Engineer](/media/DevOps-Engineer.png "DevOps Engineer")
+![GitHub Foundations](/media/gitHub-foundations.png "GitHub Foundations")
 
 </div>
 
