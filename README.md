@@ -139,6 +139,14 @@
 
 </div>
 
+### Languages & Frameworks
+
+<div align="center">
+
+[![Foundational C# with Microsoft](/media/c-sharp-freecodecap.png "Foundational C# with Microsoft")](https://drive.google.com/file/d/1kBLqPJJ2SD7wL5QYouqrVAx8bFkuAnxa/view?usp=sharing)
+
+</div>
+
 ## 📊 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
