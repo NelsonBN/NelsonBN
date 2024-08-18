@@ -123,10 +123,10 @@
 
 <div align="center">
 
-![AZ900](/media/az900.png "AZ900")
-![AZ204](/media/az204.png "AZ204")
-![AZ400](/media/az400.png "AZ400")
-![DevOps Engineer](/media/DevOps-Engineer.png "DevOps Engineer")
+[![AZ900](/media/az900.png "AZ900")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/certification/azure-fundamentals)
+[![AZ204](/media/az204.png "AZ204")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/f18c1095a44a036a)
+[![AZ400](/media/az400.png "AZ400")](https://www.credly.com/badges/2916e4e3-de23-4a0f-895c-f45159cb1dd3/public_url)
+[![DevOps Engineer](/media/DevOps-Engineer.png "DevOps Engineer")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/certification/devops-engineer)
 
 </div>
 
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-![GitHub Foundations](/media/gitHub-foundations.png "GitHub Foundations")
+[![GitHub Foundations](/media/gitHub-foundations.png "GitHub Foundations")](https://drive.google.com/file/d/1BXzkAhigzy4Sm3GAOY_MZPfIzXt_Pd9x/view?usp=sharing)
 
 </div>
 
