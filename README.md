@@ -135,7 +135,7 @@
 <div align="center">
 
 [![GitHub Foundations](/media/gitHub-foundations.png "GitHub Foundations")](https://drive.google.com/file/d/1BXzkAhigzy4Sm3GAOY_MZPfIzXt_Pd9x/view?usp=sharing)
-[![GitHub Actions](/media/gitHub-actions.png "GitHub Actions")](https://drive.google.com/file/d/1pcbTcU0Hc2sl_iEEE3GSjjzyd1pM3T-3/view?usp=sharing)
+[![GitHub Actions](/media/github-actions.png "GitHub Actions")](https://drive.google.com/file/d/1pcbTcU0Hc2sl_iEEE3GSjjzyd1pM3T-3/view?usp=sharing)
 
 </div>
 
