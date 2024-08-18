@@ -123,10 +123,10 @@
 
 <div align="center">
 
-[![AZ900](/media/az900.png "AZ900")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/certification/azure-fundamentals)
+[![AZ900](/media/az900.png "AZ900")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/5f1291801de58335)
 [![AZ204](/media/az204.png "AZ204")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/f18c1095a44a036a)
 [![AZ400](/media/az400.png "AZ400")](https://www.credly.com/badges/2916e4e3-de23-4a0f-895c-f45159cb1dd3/public_url)
-[![DevOps Engineer](/media/DevOps-Engineer.png "DevOps Engineer")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/certification/devops-engineer)
+[![DevOps Engineer](/media/DevOps-Engineer.png "DevOps Engineer")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/304cabad64a8fd91)
 
 </div>
 
