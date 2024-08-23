@@ -124,6 +124,11 @@
 [![SonarCloud](https://img.shields.io/badge/-SonarCloud-05122A?style=flat&logo=SonarCloud&logoColor=007ACC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![k6](https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6&logoColor=7D64FF&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
+#### AI
+[![GitHub Copilot](https://img.shields.io/badge/-AWS%20S3-05122A?style=flat&logo=githubcopilot&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+
+
 #### SO
 [![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAhFBMVEUAAACQwwD/xADydSj4ZywAtPL/xACQwwACtPL/xACQwwCQwwD/xACQwwD/xACQwwAAtPL4Zyz/xACQwwD/xACQwwAAtPL4ZywAtPL4Zyz/xACQwwAAtPL/xACQwwAAtPL4Zyz/xAD/xACQwwAAtPL4Zyz4Zyz/xAH/xACQwwAAtPL4ZyxU0ka3AAAAKHRSTlMAZikEbSiRkQWZmTvu7t3d2trJybu7ubmWlnd3aVVVREQ9MDAuLiIXSNXPdwAAAFxJREFUGNPFyMcNhDAUBcC3a3LOOWdw//1x4MsSFABzHNywsSmN0AaZYRqxu1+wdFKe+pwzdRfAyTcpEWb+BMgE61/AQTRlE95Lua2yxHskmdDrkXNPwoa60APrBBCuLR6jYeYSAAAAAElFTkSuQmCC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
