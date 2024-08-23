@@ -57,7 +57,7 @@
 ## 💻Tech Stack
 
 #### Languages & Frameworks
-[![C# .NET](https://img.shields.io/badge/-C%23%20.NET-05122A?style=flat&logo=c-sharp&logoColor=239120&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![C# .NET](https://img.shields.io/badge/-C%23%20.NET-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAUCAMAAAD4FJ6oAAABL1BMVEUAAAAcgb8Ug8oThMkShMkShMsShMkigLYRhckkfrgfgLwbgcEShMkUhcEShMoUg8oShMkcgMUThMcThMcThMgmfrUShMsfgL4ThMgShcgZgsUUg8sagcYShMkXgskWhMQUg8oXg8UQhscRhckWhMIThMkRhckUhcIShcgShMokfrkdgMETg8sYgsIbgr4NhssZgM8ZgsMUhMUZgccifr8Ug8kif7sigLMZg8EigbEag70ShcchgbUShccShccpfbUUhcMShMkkfrslgK0Vgsskf7Ukfrklf7ERhMkUg8kUhMcRhccThMsUg8oUgs0Sg84ThcMVgssUgs8PhcsWg8UNh8cUhMUQhM0RhsUVgdIXgsoPh8UNh8kMicMPh8MQh8EXgscMiMUQhNEPhc8ZgsGoXoooAAAASHRSTlMABYXwaudtGcFTEgv8+fjtu7awhXJyXk9HQBv67uzi3tzNy8e+pJqTj39nUlEsH/v08erh1dDMyqufjIB/fn1eXFZVQzQ0JQ/PgrMGAAAB+klEQVQoz1WS50LyMBSGWxFlg4AouPf223vv7DTdtIig3v81fOlMef7lnD59c5JoBfTri15vKeXTplbk+uRNuV2KONEUG7sE+D6GMcg3Dlfz1u0BzGjcKOMj5CCcTjPFMMCBnrZqezbKlFNlnFqMTRyMYaa4lPbT3gfDzeovVPQSpQG0Hk2z3U0UF3FWTmJWm+HEAomyruYIBLTR48P4+e/NNAYyk1XjZj+cZ8q+nhmj7QCEBuYPwYamtxJHMAbfx93K/b0zSRR1jGuMAexjznpycQwklApGcUmP9gVihVBK13LjajYemwwC6zD65LPjOBYhkEpzKNeXRJ6eZXnc3PqbX+Ee4tIRwPoeLX9NQwcQEHMRbYHbNvE8j7GlPGQ5GnVsQvSsFv+hadguSpSOvJQtghDjnKBX9TxkV85FTYbcSlI4tmd2qrR0bUCobEvFvcpDvs0gwJgK5K4kha+CEZAy1LpIToWQ53W1nLcBxKEPoft0mxRuApNbqfKl3kQQYGMKttW9/3kSyJ/PsW28y0qvlVL5QShFxt2dX1UhZ1Ag5DhSyR/DOuPZzhpHnpxCKmfK0F9GjxQACHf+ZbV6mYAcQuSkuKMrZYgxIFQIYReSqzZYpFLXFOep0v6pFbhsFYXGuV5sHpV2yuX9Tr+mLTAaLMesSAajhdZ/HEmg8i0Z4kIAAAAASUVORK5CYII=&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=a58007&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
@@ -72,7 +72,7 @@
 [![Postgre](https://img.shields.io/badge/-Postgre-05122A?style=flat&logo=postgresql&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
-[![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=Microsoft-SQL-Server&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAUBAMAAACg6XohAAAAFVBMVEUresUOc8Pm5uafudn///+60UOCtyCY/1HpAAAAcklEQVQI123Myw2EMAwE0GFJAYloIOt47xGmgCihgpUogfRfAraAAxJzevJnUNdKtHIE/zYNF9TN8i866b3vuprYbhIQvIhkKELwwDvm75w+hpbb4gwk0S2GqV2gQuRIIcOYRjnf5dEz3IgnIjhlD6FyACGrEj2ARhWfAAAAAElFTkSuQmCC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=Amazon-DynamoDB&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### Messaging
