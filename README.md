@@ -105,7 +105,7 @@
 
 
 #### SO
-[![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=0078D6&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAhFBMVEUAAACQwwD/xADydSj4ZywAtPL/xACQwwACtPL/xACQwwCQwwD/xACQwwD/xACQwwAAtPL4Zyz/xACQwwD/xACQwwAAtPL4ZywAtPL4Zyz/xACQwwAAtPL/xACQwwAAtPL4Zyz/xAD/xACQwwAAtPL4Zyz4Zyz/xAH/xACQwwAAtPL4ZyxU0ka3AAAAKHRSTlMAZikEbSiRkQWZmTvu7t3d2trJybu7ubmWlnd3aVVVREQ9MDAuLiIXSNXPdwAAAFxJREFUGNPFyMcNhDAUBcC3a3LOOWdw//1x4MsSFABzHNywsSmN0AaZYRqxu1+wdFKe+pwzdRfAyTcpEWb+BMgE61/AQTRlE95Lua2yxHskmdDrkXNPwoa60APrBBCuLR6jYeYSAAAAAElFTkSuQmCC&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### Tools
