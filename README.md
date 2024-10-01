@@ -125,7 +125,7 @@
 [![k6](https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6&logoColor=7D64FF&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 #### AI
-[![GitHub Copilot](https://img.shields.io/badge/-AWS%20S3-05122A?style=flat&logo=githubcopilot&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
+[![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-05122A?style=flat&logo=githubcopilot&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 [![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai&logoColor=fff&link=https://github.com/NelsonBN)](https://github.com/NelsonBN)
 
 
