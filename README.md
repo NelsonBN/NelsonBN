@@ -29,9 +29,6 @@
 <a href="NelsonBN#7116" target="_blank">
     <img src="https://img.shields.io/badge/Discord%20NelsonBN%237116-5865F2.svg?&style=flat&logo=Discord&logoColor=white" alt="Email">
 </a>
-<a href="https://medium.com/@NelsonBN" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000.svg?&style=flat&logo=medium&logoColor=white" alt="Medium">
-</a>
 <a href="https://www.instagram.com/nelsonbn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram">
 </a>
