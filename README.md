@@ -2,12 +2,12 @@
 ```json
 {
   "Name": "Nelson Nobre",
-  "🚀 I'm": "Software Engineer and Architect / C# Developer with +10 years of experience and specializing in .NET/C# and cloud solutions",
+  "🚀 I'm": "A Software Architect / Microsoft MVP / Developer specializing in .NET/C# with +15 years of experience in cloud solutions",
   "🏢 Working": "I'm currently working remotely at VFX Financial",
   "🌎 I'm from": "Located in Algarve, Portugal",
   "🤓 About me 1": "I am an enthusiast in matters related to software architecture",
   "🤓 About me 2": "And I love talking about Software Architecture, DDD, Design Patterns,",
-  "🤓 About me 3": "Algorithms, Data Structures, Testing, DevOps, CloudComputing, etc",
+  "🤓 About me 3": "Algorithms, Data Structures, Testing, DevOps, CloudComputing, etc"
 }
 ```
 <br>
@@ -139,6 +139,12 @@
 ## 🏆 Certifications
 
 ### Microsoft
+<div align="center">
+
+[![Microsoft MVP](/media/microsoft_mvp.png "Microsoft MVP")](https://learn.microsoft.com/en-us/users/nelsonbn/credentials/5f1291801de58335)
+
+<br/>
+</div>
 
 <div align="center">
 
