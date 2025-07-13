@@ -169,6 +169,14 @@
 
 </div>
 
+### Technologies
+
+<div align="center">
+
+[![Getting Started with OpenTelemetry (LFS148)](/media/lfs148-opentelemetry.png "Getting Started with OpenTelemetry (LFS148)")](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f9592d55-2650-45cd-af5b-1e643aa3b408-nelson-nobre-73aeb934-b316-4666-94f8-ea2687066405-certificate.pdf)
+
+</div>
+
 ## 📊 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
