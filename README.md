@@ -182,6 +182,6 @@
 ## 📊 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelsonbn&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonbn&layout=compact&langs_count=6&theme=dracula"/>
+  ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nelsonbn&theme=aura_dark)
+  ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nelsonbn&theme=aura_dark)
 </div>
